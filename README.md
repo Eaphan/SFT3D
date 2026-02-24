@@ -187,7 +187,7 @@ Adapt the command for other datasets.
 
 ## Acknowledgments
 
-* The SFT3D method is built upon the **Patchwork++** framework for 3D point cloud segmentation.
+* We sincerely appreciate the open-source project [UNIT](https://github.com/valeoai/UNIT) developed by valeoai.
 * Thanks to the authors of the **SemanticKITTI**, **nuScenes**, and **PandaSet** datasets.
 
 ---
